@@ -12,7 +12,7 @@ puppeteer
 - Sử dụng downloader.js
 
 # Ví dụ
-```js
+```sh
 npm i node-fetch@2.6.1 puppeteer
 node buildData.js
 node downloader.js
